@@ -123,6 +123,8 @@ def get_methods_rewards(model, device, input_dir, save_output, output_dir):
                 f.write("\n")
         bar.update(1)
 
+        return reward_list
+
 
 if __name__ == '__main__':
     args = parse_args()
