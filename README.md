@@ -5,8 +5,8 @@ Official Implementation of [AAAI 2025] MVReward: Better Aligning and Evaluating 
 - [x] Paper Link 
 - [x] Quick Start with MVReward Evaluation
 - [ ] Dataset
-- [ ] MVReward Checkpoint
-- [ ] Inference
+- [x] MVReward Checkpoint
+- [x] Inference
 - [ ] Training
 ![image](https://github.com/victor-thu/MVReward/blob/main/assets/quantitative.png)
 ---
